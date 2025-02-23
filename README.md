@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB aggregation pipelines, specifically an incorrect usage of the $group stage leading to faulty aggregation results. The `bug.js` file shows the problematic code, while `bugSolution.js` provides the corrected version.
